@@ -1,10 +1,11 @@
-# C Exercises
-## Introduction
+# Programming Notebooks
+
+## C
+
+### Introduction
 As I delve into C, the _lingua franca_ of programming, I find that the language is really helping me understand Python—and programming in general—much better. So far, I am really enjoying C!
 
-This repository, a hobby, contains my solutions to the exercises of the classic C book "_The C Programming Language, 2nd Edition_", by Kernighan B.W. and Ritchie D.M. The solutions only contain code elements studied up to that point in the book. As for commented sections, I am trying to follow the NASA [C style guide](http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-c-style.pdf).
-
-Hopefully, I will also pick up Assembly and Java one day.
+This repository, a hobby, contains my solutions to the exercises of the classic C book "_C Programming: A Modern Approach, 2nd Edition_", by K. N. King.
 
 ## How to run the code
 On Terminal (UNIX), compile the desired exercise with the GNU compiler:
