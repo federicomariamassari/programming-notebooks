@@ -8,7 +8,7 @@ As I delve into C, the _lingua franca_ of programming, I find that the language 
 
 My solutions to the exercises of the classic book "_C Programming: A Modern Approach, 2nd Edition_", by K. N. King.
 
-[**Link to Exercises**](programming-notebooks/c/c-programming-a-modern-approach)
+[**Link to Solutions**](programming-notebooks/c/c-programming-a-modern-approach)
 
 | **Chapter** | | **Chapter** | |
 |:---:|:---|:---:|:---|
