@@ -24,21 +24,9 @@ $ ./a.out
 ```
 The first command, `gcc -ansi 1.01.c`, compiles file `1-01.c` according to the ANSI standard, the same used in the book. On macOS, there exists a faster version, `cc -ansi 1.01.c`. The command generates output `a.out` in the same folder. `a.out` is replaced every time a new program is run. To execute it, it is necessary to include `./`, which locates the file is in the same folder.
 
-The program:
-```c
-#include <stdio.h>
-
-main()    /* Print hello, world */
-{
-    printf("hello, world\n");
-}
-```
-Prints:
-```
-hello, world
-```
-
 ## Exercises
+
+[**Link to Exercises**](programming-notebooks/c/c-programming-a-modern-approach)
 
 | **Chapter** | | **Chapter** | |
 |:---:|:---|:---:|:---|
