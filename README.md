@@ -6,7 +6,7 @@ As I delve into C, the _lingua franca_ of programming, I find that the language 
 
 ### C Programming: A Modern Approach, 2nd Edition (King, K. N.)
 
-This work-in-progress repository, a hobby, contains my solutions to the exercises of the classic book "_C Programming: A Modern Approach, 2nd Edition_", by K. N. King.
+My solutions to the exercises of the classic book "_C Programming: A Modern Approach, 2nd Edition_", by K. N. King.
 
 [**Link to Exercises**](programming-notebooks/c/c-programming-a-modern-approach)
 
