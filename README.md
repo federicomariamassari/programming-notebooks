@@ -12,6 +12,7 @@ To run a program (e.g., 1.01):
 
 ```bash
 gcc -Wall -W -pedantic -std=c99 -o 1.01 1.01.c
+./1.01
 ```
 
 [**Link to Solutions**](programming-notebooks/c/c-programming-a-modern-approach)
