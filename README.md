@@ -8,6 +8,12 @@ As I delve into C, the _lingua franca_ of programming, I find that the language 
 
 My work-in-progress solutions to the exercises of the classic book "_C Programming: A Modern Approach, 2nd Edition_", by K. N. King.
 
+To run a program (e.g., 1.01):
+
+```bash
+gcc -Wall -W -pedantic -std=c99 -o 1.01 1.01.c
+```
+
 [**Link to Solutions**](programming-notebooks/c/c-programming-a-modern-approach)
 
 | **Chapter** | | **Chapter** | |
