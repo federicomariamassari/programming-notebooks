@@ -11,8 +11,8 @@ My work-in-progress solutions to the exercises of the classic book "_C Programmi
 To compile and run a program:
 
 ```bash
-gcc -Wall -W -pedantic -std=c99 -o 1.01 1.01.c  # Exercise 1.01
-./1.01
+gcc -Wall -W -pedantic -std=c99 -o ex_1.01 ex_1.01.c  # Exercise 1.01
+./ex_1.01
 ```
 
 [**Link to Solutions**](programming-notebooks/c/c-programming-a-modern-approach)
@@ -30,6 +30,6 @@ gcc -Wall -W -pedantic -std=c99 -o 1.01 1.01.c  # Exercise 1.01
 | **9** | Functions | **23** | Library Support for Numbers and Character Data |
 | **10** | Program Organization | **24** | Error Handling |
 | **11** | Pointers | **25** | Internal Features |
-| **12** | Pointers and Arrays | **26** | Miscellaneous Library Functions |
+| [**12**](https://github.com/federicomariamassari/programming-notebooks/tree/master/c/c-programming-a-modern-approach/ch_12) | Pointers and Arrays | **26** | Miscellaneous Library Functions |
 | **13** | Strings | **27** | Additional C99 Support for Mathematics |
 | **14** | The Preprocessor | | |
