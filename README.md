@@ -15,7 +15,7 @@ gcc -Wall -W -pedantic -std=c99 -o ex_1.01 ex_1.01.c  # Exercise 1.01
 ./ex_1.01
 ```
 
-[**Link to Solutions**](programming-notebooks/c/c-programming-a-modern-approach)
+[**Link to Solutions**](https://github.com/federicomariamassari/programming-notebooks/tree/master/c/c-programming-a-modern-approach)
 
 | **Chapter** | | **Chapter** | |
 |:---:|:---|:---:|:---|
