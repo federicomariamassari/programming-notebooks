@@ -1,5 +1,3 @@
-/* 12.6e */
-
 #include <stdio.h>
 
 #define N 10

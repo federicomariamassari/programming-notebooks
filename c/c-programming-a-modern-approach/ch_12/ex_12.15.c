@@ -1,5 +1,3 @@
-/* 12.15e */
-
 #include <stdio.h>
 #include <stdlib.h>  /* for early termination condition */
 

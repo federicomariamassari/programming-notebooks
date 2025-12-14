@@ -1,5 +1,3 @@
-/* 12.12e */
-
 #include <stdio.h>
 
 #define SIZE 5

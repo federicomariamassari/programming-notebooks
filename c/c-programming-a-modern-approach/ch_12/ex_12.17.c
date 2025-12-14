@@ -1,5 +1,3 @@
-/* 12.17e */
-
 #include <stdio.h>
 
 #define N 3

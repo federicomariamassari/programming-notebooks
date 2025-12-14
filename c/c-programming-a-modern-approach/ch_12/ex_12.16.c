@@ -1,5 +1,3 @@
-/* 12.16e */
-
 #include <stdio.h>
 
 #define N_DAYS 3

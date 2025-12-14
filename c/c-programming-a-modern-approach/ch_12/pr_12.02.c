@@ -1,5 +1,3 @@
-/* 12.2p */
-
 #include <stdio.h>
 #include <ctype.h>  /* isalpha */
 #include <stdbool.h>  /* C99 only */
