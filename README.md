@@ -6,12 +6,12 @@ As I delve into C, the _lingua franca_ of programming, I find that the language 
 
 ### C Programming: A Modern Approach, 2nd Edition (King, K. N.)
 
-My work-in-progress solutions to the exercises of the classic book "_C Programming: A Modern Approach, 2nd Edition_", by K. N. King.
+My progress on the classic book "_C Programming: A Modern Approach, 2nd Edition_", by K. N. King.
 
 To compile and run a program:
 
 ```bash
-gcc -Wall -W -pedantic -std=c99 -o ex_1.01 ex_1.01.c  # Exercise 1.01
+gcc -Wall -W -pedantic -std=c99 -o ex_1.01 ex_1.01.c  # exercise 1.01
 ./ex_1.01
 ```
 
