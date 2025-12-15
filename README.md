@@ -1,12 +1,14 @@
 # Programming Notebooks
 
+This repository, a hobby, documents my progress with various programming languages.
+
 ## C
 
 As I delve into C, the _lingua franca_ of programming, I find that the language is really helping me understand Python—and programming in general—much better. So far, I am really enjoying C!
 
 ### C Programming: A Modern Approach, 2nd Edition (King, K. N.)
 
-My progress on the classic book "_C Programming: A Modern Approach, 2nd Edition_", by K. N. King.
+This section documents my progress with the classic book "_C Programming: A Modern Approach, 2nd Edition_", by K. N. King. This has been a wonderful, thorough reference for learning the language.
 
 To compile and run a program:
 
